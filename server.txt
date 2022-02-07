@@ -1,0 +1,8 @@
+lding a server requires integrating system components into an architecture that
+meets specific server design requirements. Each server is designed with a set of
+subsystems to create a balanced, high-performance, and cost-effective computer
+architecture. Server architecture is tested throughout the design and manufacturing
+process.
+Some of the key components found in industry standard servers include system
+boards, processors, chipsets, buses (I/O interconnects), memory, storage
+components, power, and mechanical components (for example, server chassis).
