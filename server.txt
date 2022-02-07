@@ -7,4 +7,10 @@ Some of the key components found in industry standard servers include system
 boards, processors, chipsets, buses (I/O interconnects), memory, storage
 components, power, and mechanical components (for example, server chassis)
 
-Adding extra lines here.
+Adding extra lines here
+
+Servers can run many programs simultaneously and process requests for data from
+many users at once. To ensure performance, the system architecture in a server is
+designed to eliminate or minimize bottlenecks that affect the speed at which
+information is accessed or processed. The system architecture also provides high
+availability, networking, and management features.
