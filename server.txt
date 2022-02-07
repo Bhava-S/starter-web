@@ -5,4 +5,6 @@ architecture. Server architecture is tested throughout the design and manufactur
 process.
 Some of the key components found in industry standard servers include system
 boards, processors, chipsets, buses (I/O interconnects), memory, storage
-components, power, and mechanical components (for example, server chassis).
+components, power, and mechanical components (for example, server chassis)
+
+Adding extra lines here.
