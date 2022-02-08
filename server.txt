@@ -13,4 +13,6 @@ Servers can run many programs simultaneously and process requests for data from
 many users at once. To ensure performance, the system architecture in a server is
 designed to eliminate or minimize bottlenecks that affect the speed at which
 information is accessed or processed. The system architecture also provides high
-availability, networking, and management features.
+availability, networking, and management features
+
+conslusion line.
